@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnuR27
 - 👀 I’m interested in Webdev, AndroidDev and ML
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ... projects on web development
+- 💞️ I’m looking to collaborate on ... projects on Machine learning and deploying in web
 - 📫 How to reach me anuanand2020@gmail.com
 
 <!---
